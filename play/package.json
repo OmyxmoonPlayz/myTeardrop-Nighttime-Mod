@@ -1,0 +1,17 @@
+{
+  "name": "myTeardrop",
+  "version": "1.0.0",
+  "description": "MyTeardrop by Vendormint, PC Port by StackingBooks",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@electron/packager": "^18.3.5",
+    "electron": "^32.1.0",
+    "electron-packager": "^17.1.2"
+  }
+}
